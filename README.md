@@ -7,6 +7,13 @@
 
 - 💬 Ask me about **Java, PHP, C#, JavaScript, SQL, Node.JS, React JS**
 
+## About me
+
+I have been programming for over nine years, I work with current and legacy technologies on the market, I am excited about working with system creation and problem solving.
+
+## Github Stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelocbasilio&theme=shadow_blue&show_icons=true)
 <br><br>
 
 ## Contact
