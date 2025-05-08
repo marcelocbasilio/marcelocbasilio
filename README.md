@@ -4,7 +4,7 @@
 
 - 🔥 Developer 
 
-- 🔭 I'm currently not working. <!-- at [G4F](https://www.g4f.com.br/) -->
+- 🔭 I'm currently working at [Qintess](https://qintess.com/en/)
 
 - 💬 Ask me about **Java, PHP, C#, JavaScript, Node.JS, React JS, SQL**
 
