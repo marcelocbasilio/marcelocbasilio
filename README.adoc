@@ -34,8 +34,8 @@ I have been programming for over nine years, I work with current and legacy tech
 
 == Github Analytics
 
-link:https://github.com/marcelocbasilio[image:https://github-readme-stats.vercel.app/api?username=marcelocbasilio&show_icons=true&theme=shadow_blue[GitHub Stats]]
-link:https://github.com/marcelocbasilio[image:https://github-readme-stats.vercel.app/api/top-langs/?username=marcelocbasilio&layout=compact&theme=shadow_blue[Top Languages]]
+image::https://github-readme-stats.vercel.app/api?username=marcelocbasilio&show_icons=true&theme=shadow_blue[GitHub Stats]
+image::https://github-readme-stats.vercel.app/api/top-langs/?username=marcelocbasilio&layout=compact&theme=shadow_blue[Top Languages]
 
 == Contact
 
