@@ -1,0 +1,44 @@
+= Hi, I'm Marcelo Basilio
+:toc:
+:toclevels: 2
+
+image::https://komarev.com/ghpvc/?username=marcelocbasilio&label=Profile+Views&style=plastic&color=1abadc[Profile Views]
+
+* 🔥 Developer
+* 🔭 I'm currently working at https://qintess.com/en/[Qintess]
+* 💬 Ask me about *Java, PHP, C#, JavaScript, Node.JS, React JS, SQL*
+
+== Programming Language (back)
+
+image::https://img.shields.io/badge/-Java-05122A?style=flat&logo=JAVA[Java]
+image::https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php[PHP]
+image::https://img.shields.io/badge/-.Net-05122A?style=flat&logo=.net[C#]
+image::https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript[JavaScript]
+image::https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js[Node.js]
+
+== Programming Language (front)
+
+image::https://img.shields.io/badge/-React_JS-05122A?style=flat&logo=react[React JS]
+
+== Databases
+
+image::https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql[PostgreSQL]
+image::https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql[MySQL]
+image::https://img.shields.io/badge/-SQL_Server-05122A?style=flat&logo=sqlserver[SQL Server]
+image::https://img.shields.io/badge/-DB2-05122A?style=flat&logo=DB2[DB2]
+image::https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite[SQLite]
+
+== About me
+
+I have been programming for over nine years, I work with current and legacy technologies on the market, I am excited about working with system creation and problem solving.
+
+== Github Analytics
+
+image::https://github-readme-stats.vercel.app/api?username=marcelocbasilio&show_icons=true&theme=shadow_blue[Stats,270]
+image::https://github-readme-stats.vercel.app/api/top-langs/?username=marcelocbasilio&layout=compact&theme=shadow_blue[Languages,270]
+
+== Contact
+
+link:https://codepen.io/marcelocbasilio[image:https://img.shields.io/badge/-marcelocbasilio-05122A?style=flat&logo=codepen[Codepen]]
+link:https://x.com/marcelocbasilio[image:https://img.shields.io/badge/-marcelocbasilio-05122A?style=flat&logo=twitter[Twitter]]
+link:https://linkedin.com/in/marcelocbasilio[image:https://img.shields.io/badge/-marcelocbasilio-05122A?style=flat&logo=linkedin[LinkedIn]]
